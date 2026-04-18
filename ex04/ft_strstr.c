@@ -6,7 +6,7 @@
 /*   By: casampai <casampai@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/17 16:10:48 by casampai          #+#    #+#             */
-/*   Updated: 2026/04/17 23:01:37 by casampai         ###   ########.fr       */
+/*   Updated: 2026/04/18 00:35:05 by casampai         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,6 @@ char	*ft_strstr(char *str, char *to_find)
 		len_to_find++;
 	while (*(ptr_str + count))
 	{
-		if(*ptr_str)
+		// if(*ptr_str)
 	}
 }
