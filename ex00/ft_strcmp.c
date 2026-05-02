@@ -6,12 +6,9 @@
 /*   By: casampai <casampai@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/16 11:50:29 by casampai          #+#    #+#             */
-/*   Updated: 2026/04/16 13:20:16 by casampai         ###   ########.fr       */
+/*   Updated: 2026/05/02 19:42:12 by casampai         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <stdio.h>
-#include <unistd.h>
 
 int	ft_strcmp(char *s1, char *s2)
 {
